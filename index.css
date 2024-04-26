@@ -177,3 +177,7 @@ input::-webkit-inner-spin-button {
     width: 100%;
   }
 }
+p::selection {
+  background: yellowgreen;
+  color: white;
+}
